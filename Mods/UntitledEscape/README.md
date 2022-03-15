@@ -7,9 +7,6 @@ AddonsUntitled 모드가 필요합니다.
 
 SPT-AKI 2.2.3
 
-```json
-{}
-```
 
 ---
 

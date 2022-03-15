@@ -7,10 +7,6 @@ AddonsUntitled 모드가 필요합니다.
 
 SPT-AKI 2.2.3
 
-```json
-{}
-```
-
 ---
 
 user/mods폴더에 압축풀어서 넣어주면 됩니다.
