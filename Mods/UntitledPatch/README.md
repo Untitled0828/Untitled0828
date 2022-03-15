@@ -1,6 +1,6 @@
 # UntitledPatch
 
-AddonsBetterTarkov 모드가 필요합니다.
+AddonsUntitled 모드가 필요합니다.
 
 SPT-AKI 2.2.3
 
@@ -30,4 +30,4 @@ RemoveWeaponMalfunction = 총기 고장을 제거합니다.
 
 user/mods폴더에 압축풀어서 넣어주면 됩니다.
 
-AddonsBetterTarkov모드도 있어야 로드됩니다.
+AddonsUntitled 모드도 있어야 로드됩니다.
