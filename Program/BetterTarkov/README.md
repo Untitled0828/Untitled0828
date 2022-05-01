@@ -1,7 +1,7 @@
-[Mod]: https://github.com/Untitled0828/Untitled0828/raw/main/Program/ "파일 다운로드"
+[Mod]: https://github.com/Untitled0828/Untitled0828/raw/main/Program/BetterTarkov/BetterTarkov.7z "파일 다운로드"
 [NamedPipe]: https://ko.wikipedia.org/wiki/%EB%AA%85%EB%AA%85%EB%90%9C_%ED%8C%8C%EC%9D%B4%ED%94%84
 
-# BetterTarkov
+# BetterTarkov.exe
 
 SPT-AKI 2.3.1
 BetterTarkov 모드가 있어야 작동합니다.
